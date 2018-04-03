@@ -1,0 +1,52 @@
+
+.hosgeldin {
+
+	border: 5px solid darkgoldenrod; /*border ekler ve rengini ayarlar */
+	margin: 0 auto;                    /*ortalar */
+	margin-top:150px;					/*yukardan aşağı değere göre iner */
+	width: 500px;             		   /*borderi yatay uzunluk ayarlar  */
+	height: 100px;                     /*borderi dikey uzunluk ayarlar  */
+	 
+	
+}	
+
+
+h1 { color :white; 
+
+	
+	}
+h3 {
+
+	color: goldenrod;
+
+	top
+}
+
+.aramayon{
+	position: relative;
+	top: 40px;
+	right:55px ;
+	width: 55px;
+}
+
+/*arka plan
+body{
+background: url("arka plan.jpg") no-repeat center center fixed;
+background-size: cover;	
+}
+*/
+
+.form-tasarim{
+
+color: goldenrod;
+position: relative;
+left: 1050px	;
+}
+
+
+.list {
+	position: relative;
+bottom:50px;
+left: 10px;
+width: 200px;
+}
