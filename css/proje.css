@@ -1,0 +1,36 @@
+
+.hosgeldin {
+	border: 5px solid darkgoldenrod; /*border ekler ve rengini ayarlar */
+	margin: 0 auto;                    /*ortalar */
+	margin-top: 150px;					/*yukardan aşağı değere göre iner */
+	width: 600px;
+}	
+
+
+h1 {
+	color :white; 
+}
+h3 {
+	color: goldenrod;
+}
+
+.aramayon {
+	position: relative;
+	top: 40px;
+	right:55px ;
+	width: 55px;
+}
+
+.form-tasarim{
+	color: goldenrod;
+	position: relative;
+	left: 100px;
+}
+
+
+.list {
+	position: relative;
+	bottom:50px;
+	left: 10px;
+	width: 200px;
+}
