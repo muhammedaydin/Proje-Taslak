@@ -10,3 +10,24 @@ h2{
     top: 450px;
 
 }
+
+input[type=text] {
+    width: 500px;
+    height: 25px; 
+    border: 3px solid goldenrod;
+    margin: auto;
+}
+
+.ara  {
+       position: relative;
+       margin: auto;
+       left: 450px;
+ 
+}
+
+.list{
+position: relative;
+left:495px;
+bottom:44px;
+
+}
